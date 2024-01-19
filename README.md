@@ -1,4 +1,4 @@
-# Decision Tree Algorithm
+# Overview
 
 "Project1 - inf264.pdf" - a report of the project
 
